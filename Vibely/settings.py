@@ -62,7 +62,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Social_Book.urls'
+ROOT_URLCONF = 'Vibely.urls'
 
 TEMPLATES = [
     {
@@ -80,7 +80,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Social_Book.wsgi.application'
+WSGI_APPLICATION = 'Vibely.wsgi.application'
 
 
 # Database
